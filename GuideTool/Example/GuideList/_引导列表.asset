@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 607822fb56b4e304594dedad0c1defbe, type: 3}
+  m_Name: "_\u5F15\u5BFC\u5217\u8868"
+  m_EditorClassIdentifier: 
+  guideList:
+  - guide: {fileID: 11400000, guid: 0590a75e12a403a41b9bf0e71af56c2c, type: 2}
+    description: 
+  - guide: {fileID: 11400000, guid: 4c4e8384086194a42b74157aefc06bd1, type: 2}
+    description: 
+  - guide: {fileID: 11400000, guid: fb496e097d53d0b4a94a49512b1e30f5, type: 2}
+    description: 
+  - guide: {fileID: 11400000, guid: 8c477ebe2cd433f4f9b5fc7a16729180, type: 2}
+    description: 
+  - guide: {fileID: 11400000, guid: 5dfe8090bea9ef144ac706f9035f6906, type: 2}
+    description: 
+  - guide: {fileID: 11400000, guid: 70b595670fb533048a1ad8297745a20b, type: 2}
+    description: 
+  - guide: {fileID: 11400000, guid: 5121c37546cfaca4ea2db943cbc9b484, type: 2}
+    description: 
+  - guide: {fileID: 11400000, guid: 73c9ccef7aef8cc4a89971c370a00d16, type: 2}
+    description: 

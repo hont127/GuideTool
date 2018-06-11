@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ec272526850ff54fac1c40d5d671d62, type: 3}
+  m_Name: TestGuide_CottonSwabTips Asset
+  m_EditorClassIdentifier: 
+  tipContent: "\u68C9\u82B1\u68D2\u53EF\u63D0\u53D6\u5DF2\u7ECF\u7167\u4EAE\u7684\u6307\u7EB9\u6216\u811A\u5370"
